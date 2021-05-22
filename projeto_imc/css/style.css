@@ -1,0 +1,96 @@
+body{
+  background-color: white;
+}
+
+
+.main{
+  background-color: rgb(80, 62, 241);
+  border: 2px solid black;
+  width: 20%;
+  height: 750px;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.info{
+  border-radius: 20px;
+  background-color: rgb(48, 44, 44);
+  width: 90%;
+  height: 250px;
+  margin-left: auto;
+  margin-top: 10px;
+  margin-right: auto;
+  color: yellow;
+}
+.info table{
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  margin-left: 10px;
+
+}
+
+.info th {
+  padding-top: 15px;
+}
+.info h1{
+  margin-left: 20px;
+  font-size: 28px;
+}
+.nome{
+  width: 85%;
+  height: 60px;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-left: 25px;
+  margin-top: 15px;
+  border: 1px solid black;
+}
+.nome input{
+  width: 85%;
+}
+.peso{
+  width: 85%;
+  height: 60px;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+.peso input{
+  width: 85%;
+}
+.altura{
+  width: 85%;
+  height: 60px;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border: 1px solid black;
+
+}
+.altura input{
+  width: 85%;
+}
+.botao{
+  width: 120PX;
+  height: 35px;
+  margin-left: 125px;
+  margin-top: 10px;
+  
+}
+.infoUser{
+border-radius: 20px;
+background-color: rgb(48, 44, 44);
+width: 95%;
+height: 200px;
+margin-left: auto;
+margin-top: 15px;
+margin-right: auto;
+color:yellow;
+}
