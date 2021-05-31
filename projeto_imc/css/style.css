@@ -1,35 +1,37 @@
 body{
-  background-color: white;
+  background-color: #136F63;
+
 }
-
-
 .main{
-  background-color: rgb(80, 62, 241);
+  background-color: #22AAA1;
   border: 2px solid black;
-  width: 20%;
-  height: 750px;
+  width: 25%;
+  height: 680px;
   padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 5px;
   margin-left: auto;
   margin-top: auto;
   margin-right: auto;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .info{
   border-radius: 20px;
   background-color: rgb(48, 44, 44);
-  width: 90%;
-  height: 250px;
-  margin-left: auto;
-  margin-top: 10px;
-  margin-right: auto;
+  width: 95%;
+  height: 230px;
+  margin-left: 8px;
+  margin-top: 5px;
+  margin-right: 10px;
   color: yellow;
 }
 .info table{
   width: 100%;
   border-collapse: collapse;
   text-align: left;
-  margin-left: 10px;
+  margin-left: 35px;
+
 
 }
 
@@ -37,60 +39,39 @@ body{
   padding-top: 15px;
 }
 .info h1{
-  margin-left: 20px;
+  text-align: center;
   font-size: 28px;
 }
 .nome{
-  width: 85%;
-  height: 60px;
-  border-radius: 5px;
-  padding-left: 10px;
-  margin-left: 25px;
-  margin-top: 15px;
-  border: 1px solid black;
+  width: 90%;
+  height: 150px;
+  padding-top: 10px;
+  padding-left: 20px;
+  margin-left: 10px;
+  margin-top: 0px;
 }
 .nome input{
-  width: 85%;
-}
-.peso{
-  width: 85%;
-  height: 60px;
+  width: 95%;
   border-radius: 5px;
-  padding-left: 10px;
-  margin-left: 25px;
-  margin-top: 10px;
-  border: 1px solid black;
 }
-.peso input{
-  width: 85%;
-}
-.altura{
-  width: 85%;
-  height: 60px;
-  border-radius: 5px;
-  padding-left: 10px;
-  margin-left: 25px;
-  margin-top: 10px;
-  border: 1px solid black;
 
-}
-.altura input{
-  width: 85%;
-}
-.botao{
-  width: 120PX;
-  height: 35px;
-  margin-left: 125px;
-  margin-top: 10px;
-  
+.style-button{
+  width: 25%;
+  height: 50px;
+  margin-left: 35%;
+  margin-right: 25%;
+  border-radius: 10px;
 }
 .infoUser{
 border-radius: 20px;
 background-color: rgb(48, 44, 44);
 width: 95%;
-height: 200px;
+height: 150px;
 margin-left: auto;
-margin-top: 15px;
 margin-right: auto;
+margin-top: 15px;
 color:yellow;
+text-align: center;
+font-size: 19px;
+padding-top: 50px;
 }
